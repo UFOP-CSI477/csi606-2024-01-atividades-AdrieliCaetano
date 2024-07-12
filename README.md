@@ -2,11 +2,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Adrieli Alexandre Caetano   
+- Matrícula: 20.1.8010
+- Curso: Sistemas de Informação
+- Semestre/Ano correntes: 2024/1
+- Link para o seu GitHub: [AdrieliCae](https://github.com/AdrieliCaetano)
 
 ## [Projeto final:](./Projeto/README.md)
 
