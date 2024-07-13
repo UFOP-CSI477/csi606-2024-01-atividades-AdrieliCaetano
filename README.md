@@ -6,7 +6,7 @@
 - Matrícula: 20.1.8010
 - Curso: Sistemas de Informação
 - Semestre/Ano correntes: 2024/1
-- Link para o seu GitHub: [AdrieliCae](https://github.com/AdrieliCaetano)
+- Link para o seu GitHub: [AdrieliCaetano](https://github.com/AdrieliCaetano)
 
 ## [Projeto final:](./Projeto/README.md)
 
