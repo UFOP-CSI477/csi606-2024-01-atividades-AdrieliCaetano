@@ -11,4 +11,4 @@
 
 ## [Projeto final:](./Projeto/README.md)
 
-Apresente uma breve descrição do seu projeto.
+O trabalho final consiste num sistema web para gestão de atividades avaliativas, onde o usuário pode cadastrar, visualizar e gerenciar suas disciplinas e atividades. O sistema permite a criação de usuários sem autenticação, e oferece funcionalidades para organizar atividades acadêmicas com base em disciplinas e prazos.
