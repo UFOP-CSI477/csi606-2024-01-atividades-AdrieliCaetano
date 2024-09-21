@@ -26,7 +26,9 @@
 - Visualização de Atividades: O usuário poderá ver suas atividades em uma lista ordenada por data (mais próximas primeiro) e filtrar as atividades por disciplina ou por períodos semanais e mensais.
 - Calendário Mensal: O usuário poderá visualizar um calendário que marca os dias com atividades avaliativas.
 
-- [Link para o modelo de dados](./ModeloER.png)
+- O banco de dados utilizado será relacional conforme os modelos abaixo:
+  - [Modelo ER](./ModeloER.png)
+  - [Modelo relacional](./modeloRelacional.png)
 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
 ### 3. Restrições
