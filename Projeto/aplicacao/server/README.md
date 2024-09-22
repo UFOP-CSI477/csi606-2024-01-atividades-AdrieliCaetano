@@ -46,13 +46,15 @@
 
 ### Instalar Dependências
 1. Crie um ambiente virtual (opcional):
-    ```bash 
+
+   ```bash 
     python -m venv venv 
     source venv/bin/activate # Linux/Mac
     venv\Scripts\activate # Windows`
     ```
-2. Instale as dependências:
-    ```bash
+3. Instale as dependências:
+
+   ```bash
     pip install -r requirements.txt
     ```
 ### Rodar o Backend 
