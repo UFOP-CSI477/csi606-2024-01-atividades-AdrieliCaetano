@@ -8,11 +8,12 @@
 
 ## Instruções para rodar o backend 
 ### Pré-requisitos 
-1. **Python**: Certifique-se de que o Python (3.6 ou superior) esteja instalado. Você pode verificar a instalação com: 
-    ```bash
+1. **Python**: Certifique-se de que o Python (3.6 ou superior) esteja instalado. Você pode verificar a instalação com:
+
+   ```bash
     python --version
     ```
-2. **PostgreSQL**: Você deve ter o PostgreSQL instalado e em execução.
+3. **PostgreSQL**: Você deve ter o PostgreSQL instalado e em execução.
 
 ### Criar Banco de Dados no PostgreSQL 
 1. Acesse o PostgreSQL
