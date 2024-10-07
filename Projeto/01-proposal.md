@@ -41,7 +41,7 @@
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
 
-  Protótipos para as páginas (descrever quais páginas) foram elaborados, e podem ser encontrados em...
+  Protótipos para as páginas de início, de visualização usuários, criação de usuários e visualização do calendário foram elaborados, e podem ser encontrados em: [Protótipo Figma](https://www.figma.com/proto/Ed6uI8KZdZ2zbUwjCABIN8/Projeto_web?node-id=1-2&node-type=canvas&t=1tGqpSgRji9MOuUJ-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2).
 
 ### 5. Referências
 
