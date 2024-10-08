@@ -44,6 +44,7 @@ A ordenação de atividades por status de conclusão não estava prevista. A ide
 ### 5. Instruções para instalação e execução
 <!-- Descrever o que deve ser feito para instalar (ou baixar) a aplicação, o que precisa ser configurando (parâmetros, banco de dados e afins) e como executá-la. -->
 - Instruções para rodar o backend do projeto estão disponíveis [aqui](aplicacao/server/README.md).
+- Instruções para rodar o fronten do projeto estão disponíveis [aqui](aplicacao/web/README.md).
 
 ### 6. Referências
 <!-- Referências podem ser incluídas, caso necessário. Utilize o padrão ABNT. -->
