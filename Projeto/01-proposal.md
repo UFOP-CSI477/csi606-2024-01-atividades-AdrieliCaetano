@@ -45,4 +45,18 @@
 
 ### 5. Referências
 
-  Referências podem ser incluídas, caso necessário. Utilize o padrão ABNT.
+- REACT. React documentation. Disponível em: https://reactjs.org/docs/getting-started.html. 
+
+- NEXT.JS. Next.js documentation. Disponível em: https://nextjs.org/docs.
+
+- TYPESCRIPT. TypeScript documentation. Disponível em: https://www.typescriptlang.org/docs/.
+
+- TAILWIND CSS. Tailwind CSS documentation. Disponível em: https://tailwindcss.com/docs.
+
+- PEEWEE ORM. Peewee documentation. Disponível em: http://docs.peewee-orm.com/en/latest/.
+
+- FLASK. Flask documentation. Disponível em: https://flask.palletsprojects.com/en/2.0.x/.
+
+- DAY.JS. Day.js documentation. Disponível em: https://day.js.org/docs/en/installation/installation.
+
+- REACT CALENDAR. React Calendar documentation. Disponível em: https://www.npmjs.com/package/react-calendar.
