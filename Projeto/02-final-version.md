@@ -13,7 +13,7 @@
 ### 1. Funcionalidades implementadas
 <!-- Descrever as funcionalidades que eram previstas e foram implementas. -->
 - Criação, visualização, edição e exclusão de usuários
-- Criação, edição e exclusão de discplinas
+- Criação, edição e exclusão de disciplinas
 - Criação, edição e exclusão de atividades
 - Visualização de disciplinas de um determinado usuário
 - Visualização de atividades de um determinado usuário, com filtro de data e de disciplina e ordenadas com base na data (mais próximas primeiro) e no status de conclusão (atividades pendentes aparecem primeiro).
@@ -44,7 +44,7 @@ A ordenação de atividades por status de conclusão não estava prevista. A ide
 ### 5. Instruções para instalação e execução
 <!-- Descrever o que deve ser feito para instalar (ou baixar) a aplicação, o que precisa ser configurando (parâmetros, banco de dados e afins) e como executá-la. -->
 - Instruções para rodar o backend do projeto estão disponíveis [aqui](aplicacao/server/README.md).
-- Instruções para rodar o fronten do projeto estão disponíveis [aqui](aplicacao/web/README.md).
+- Instruções para rodar o frontend do projeto estão disponíveis [aqui](aplicacao/web/README.md).
 
 ### 6. Referências
 <!-- Referências podem ser incluídas, caso necessário. Utilize o padrão ABNT. -->
