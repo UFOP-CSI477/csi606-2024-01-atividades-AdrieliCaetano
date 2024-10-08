@@ -1,9 +1,12 @@
 from flask import Flask, jsonify, request
+from flask_cors import CORS
 from peewee import *
 from config import POSTGRES
 from playhouse.shortcuts import model_to_dict
 
 app = Flask(__name__)
+CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
+
 db = PostgresqlDatabase(
     POSTGRES['database'],
     user=POSTGRES['user'],

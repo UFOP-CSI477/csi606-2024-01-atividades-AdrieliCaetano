@@ -8,12 +8,11 @@
 
 ## Instruções para rodar o backend 
 ### Pré-requisitos 
-1. **Python**: Certifique-se de que o Python (3.6 ou superior) esteja instalado. Você pode verificar a instalação com:
-
-   ```bash
+1. **Python**: Certifique-se de que o Python (3.6 ou superior) esteja instalado. Você pode verificar a instalação com: 
+    ```bash
     python --version
     ```
-3. **PostgreSQL**: Você deve ter o PostgreSQL instalado e em execução.
+2. **PostgreSQL**: Você deve ter o PostgreSQL instalado e em execução.
 
 ### Criar Banco de Dados no PostgreSQL 
 1. Acesse o PostgreSQL
@@ -46,15 +45,13 @@
 
 ### Instalar Dependências
 1. Crie um ambiente virtual (opcional):
-
-   ```bash 
+    ```bash 
     python -m venv venv 
     source venv/bin/activate # Linux/Mac
     venv\Scripts\activate # Windows`
     ```
-3. Instale as dependências:
-
-   ```bash
+2. Instale as dependências:
+    ```bash
     pip install -r requirements.txt
     ```
 ### Rodar o Backend 

@@ -16,7 +16,7 @@ model Estado {
   sigla String @unique
 
   created_at DateTime @default(now())
-  update_at  DateTime @default(now())
+  updated_at DateTime @default(now())
   cidades    Cidade[]
 
   @@map("estados")

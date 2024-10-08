@@ -1,14 +1,13 @@
 import express from 'express'
 // Import Routes
 import { estadoRouter } from './routes/estados.js'
-
 import { cidadeRouter } from './routes/cidades.js'
-
 import { tipoRouter } from './routes/tipo.js'
 import { pessoaRouter } from './routes/pessoas.js'
 import { localRouter } from './routes/locais.js'
 import { doacaoRouter } from './routes/doacoes.js'
 
+import cors from 'cors'
 
 const server = express()
 const PORT = 5000
@@ -20,6 +19,7 @@ server.get('/', (request, response) => {
     })
 })
 
+server.use(cors())
 server.use(express.json())
 server.use(estadoRouter)
 server.use(cidadeRouter)
