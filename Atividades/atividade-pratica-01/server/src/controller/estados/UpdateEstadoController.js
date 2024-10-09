@@ -12,7 +12,7 @@ export class UpdateEstadoController {
             data: {
                 nome,
                 sigla,
-                update_at: new Date()
+                updated_at: new Date()
             },
 
             where: {
